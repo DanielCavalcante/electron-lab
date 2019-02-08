@@ -1,0 +1,14 @@
+{
+  "name": "electron-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "electron ."
+  },
+  "author": "Daniel Cavalcante de Souza",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^4.0.4"
+  }
+}
